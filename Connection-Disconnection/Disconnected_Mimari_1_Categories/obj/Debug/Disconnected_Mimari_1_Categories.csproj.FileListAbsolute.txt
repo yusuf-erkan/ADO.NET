@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Disconnected_Mimari_1_Categories\bin\Debug\Disconnected_Mimari_1_Categories.exe.config
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Disconnected_Mimari_1_Categories\bin\Debug\Disconnected_Mimari_1_Categories.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Disconnected_Mimari_1_Categories\bin\Debug\Disconnected_Mimari_1_Categories.pdb
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Disconnected_Mimari_1_Categories\obj\Debug\Disconnected_Mimari_1_Categories.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Disconnected_Mimari_1_Categories\obj\Debug\Disconnected_Mimari_1_Categories.Form1.resources
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Disconnected_Mimari_1_Categories\obj\Debug\Disconnected_Mimari_1_Categories.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Disconnected_Mimari_1_Categories\obj\Debug\Disconnected_Mimari_1_Categories.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Disconnected_Mimari_1_Categories\obj\Debug\Disconnected_Mimari_1_Categories.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Disconnected_Mimari_1_Categories\obj\Debug\Disconnected_Mimari_1_Categories.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Disconnected_Mimari_1_Categories\obj\Debug\Disconnected_Mimari_1_Categories.pdb

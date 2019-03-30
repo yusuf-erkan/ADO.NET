@@ -1,0 +1,11 @@
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Connected_Mimari\bin\Debug\Connected_Mimari.exe.config
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Connected_Mimari\bin\Debug\Connected_Mimari.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Connected_Mimari\bin\Debug\Connected_Mimari.pdb
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Connected_Mimari\obj\Debug\Connected_Mimari.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Connected_Mimari\obj\Debug\Connected_Mimari.Form1.resources
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Connected_Mimari\obj\Debug\Connected_Mimari.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Connected_Mimari\obj\Debug\Connected_Mimari.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Connected_Mimari\obj\Debug\Connected_Mimari.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Connected_Mimari\obj\Debug\Connected_Mimari.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Connected_Mimari\obj\Debug\Connected_Mimari.pdb
+C:\Users\Section2\source\repos\NT_ADO.Net_2_Serkan\Connected_Mimari\obj\Debug\Connected_Mimari.CategoryForm.resources
